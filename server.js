@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const mysql = require("mysql");
+const mysql = require("mysql2");
 const cTable = require("console.table");
 const db = require(".");
 
@@ -10,7 +10,7 @@ const connection = mysql.createConnection({
   
     user: "root",
   
-    password: "Morpheus718",
+    password: "P4$$word",
     database: "employee_info_db"
   });
   
