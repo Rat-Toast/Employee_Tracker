@@ -1,7 +1,7 @@
 # Employee_Tracker
 
 walkthrough:
-/Users/palomawells/Library/Containers/com.mac.utility.screen.recorder/Data/Movies/Omi Screen Recorder/Screen-2023-12-12-225139.mp4
+https://drive.google.com/file/d/1sva2U0g5KWMFzS8gWMdkhcxbhbRwtJVd/view?usp=drive_link
 
 ## Overview
 
